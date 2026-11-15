@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novalion-cmd.github.io/sitemap.xml
